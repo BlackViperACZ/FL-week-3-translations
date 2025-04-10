@@ -8,25 +8,25 @@ translate french d18s08_2004fe1c:
 translate french d18s08_c7d62d4d:
 
     # hr "Someone's in there. And they're...slapping something?"
-    hr "Il y a quelqu'un là-dedans. Et ils... giflent quelque chose?"
+    hr "Il y a quelqu'un là-dedans. Et ils... claques quelque chose?"
 
 # game/code/d18/d18s08.rpy:17
 translate french d18s08_4114c0e5:
 
     # arj "Slapping something?"
-    arj "Gifles quelque chose?"
+    arj "claques quelque chose?"
 
 # game/code/d18/d18s08.rpy:21
 translate french d18s08_0db9ac34:
 
     # "{color=#c46c93}???{/color}" "I'm {i}appalled{/i}, young lady."
-    "{color=#c46c93}???{/color}" "Je suis une {i}épouvantable{/i} jeune femme."
+    "{color=#c46c93}???{/color}" "Je suis une {i}vilaine{/i} fille."
 
 # game/code/d18/d18s08.rpy:22
 translate french d18s08_f6256a06:
 
     # "{color=#c46c93}???{/color}" "I didn't raise you to be some common harlot!"
-    "{color=#c46c93}???{/color}" "Je ne t'ai pas élevé pour être une prostituée de base!"
+    "{color=#c46c93}???{/color}" "Je ne t'ai pas élevé pour être une pute de base!"
 
 # game/code/d18/d18s08.rpy:25
 translate french d18s08_384e1515:
@@ -38,13 +38,13 @@ translate french d18s08_384e1515:
 translate french d18s08_c669d142:
 
     # "{color=#54b25a}???{/color}" "*Pained whimpering*"
-    "{color=#54b25a}???{/color}" "*Douleurs douloureuses*"
+    "{color=#54b25a}???{/color}" "*Gémissements douloureux*"
 
 # game/code/d18/d18s08.rpy:43
 translate french d18s08_f4baa2a7:
 
     # "{color=#c46c93}???{/color}" "I didn't instill the word of our Lord in you since you were a babe so that you can spit in the face of his holy creatio—."
-    "{color=#c46c93}???{/color}" "Je ne t'ai pas inculqué la parole de notre Seigneur quand tu étais bébé afin que tu puisses cracher au visage de sa sainte créatio—."
+    "{color=#c46c93}???{/color}" "Je ne t'ai pas inculqué la parole de notre Seigneur quand tu étais bébé afin que tu puisses cracher au visage de sa sainte création—."
 
 # game/code/d18/d18s08.rpy:52
 translate french d18s08_bc306e48:
@@ -116,7 +116,7 @@ translate french d18s08_f0fee0bd:
 translate french d18s08_b3b1f69c:
 
     # tl "This tramp of a woman I call my daughter has committed grievous sins, {i}repeatedly{/i}, and is now being punished and shamed for her debaucherous ways."
-    tl "Cette clocharde que j'appelle ma fille a commis de graves péchés, {i}à plusieurs reprises{/i}, et est maintenant punie et humiliée pour ses manières de débauche."
+    tl "Cette clocharde que j'appelle ma fille a commis de graves péchés, et {i}à plusieurs reprises{/i}, et elle est maintenant punie et humiliée pour ses manières de débauche."
 
 # game/code/d18/d18s08.rpy:94
 translate french d18s08_e354d71b:
